@@ -142,7 +142,8 @@ function createPlate(response) {
   var myStyle = {
     "color": "#ff7800",
     "weight": 2,
-    "opacity": 0.65
+    "fillOpacity": "0"
+  
 };
 
   //Pass data to geoJSON function
